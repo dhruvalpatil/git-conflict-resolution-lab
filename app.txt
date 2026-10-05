@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Application Version 1 - Production Configuration
+=======
+Application Version 1
+Feature: Added login functionality
+>>>>>>> feature/login
