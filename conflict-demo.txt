@@ -1,1 +1,2 @@
 Application environment: login-testing
+Application environment: payment-testing
