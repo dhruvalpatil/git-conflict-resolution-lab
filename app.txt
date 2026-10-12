@@ -4,4 +4,8 @@ Application Version 1 - Production Configuration
 Application Version 1
 Feature: Added login functionality
 >>>>>>> feature/login
+<<<<<<< HEAD
 Production: Enabled monitoring
+=======
+Feature: Added payment functionality
+>>>>>>> 6cf5f68 (Add payment functionality)
