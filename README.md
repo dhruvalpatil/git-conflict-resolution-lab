@@ -12,3 +12,6 @@ A hands-on Git and DevOps practice project.
 - Git
 - GitHub
 - Linux / WSL
+
+## Git Collaboration Practice
+This project demonstrates feature branches, pull requests, and code reviews.
